@@ -1,0 +1,241 @@
+.loginul {
+	 width:200px;
+	 margin:0 auto;
+	 list-style-type:none;
+ }
+ 
+.reg  {
+	 margin-top:10px !important;
+	 width:200px;
+	 margin:0 auto;
+	 list-style-type:none;
+ }
+
+.trip-planner-plan3 {
+    border-radius: 3px 3px 3px 3px;
+    padding-bottom: 28px;
+    padding-top: 20px;
+    width: 280px;
+}
+ 
+ #galleria{ 
+	 width: 100%;
+	 height: 720px;
+	 position:absolute !important;
+	 z-index:-999999;
+	 /*opacity:0.7;*/
+	 top:0;
+	 left:0;
+ }
+ 
+ #galleria img{ 
+	 width: 100%;
+	 height: 100%;
+ }
+ 
+ .center  {
+	margin:0 auto;
+ }
+ 
+ .welcome {
+    background-color: #111111;
+    margin-right: 0 auto;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+}
+
+.frontpage-text {
+    color: #EEEEEE;
+    font-family: 'Quicksand',Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 42px;
+    margin: 30px 0 8px -45px;
+    text-shadow: 0 0 3px #969696;
+    width: 870px;
+}
+
+.message {
+    margin-bottom: 40px;
+    margin-top: 7%;
+    width: 770px;
+}
+
+.message h3  {
+	margin-top:50px;
+	font-size:22px;
+	color:#fafafa;
+	margin-left:40px;
+	width:700px;
+	text-shadow: 0px 0px 3px rgba(150, 150, 150, 1);
+	font-family: 'Fjord One', serif;
+
+}
+
+.message2 {
+    margin-left: 120px;
+    width: 700px;
+}
+.h1-quote  {
+	font-family: 'Fashionista';
+	font-size:98px;
+	margin-top:30px;
+}
+
+.h1-quote-2  {
+	font-family: 'Fashionista';
+	font-size:98px;
+	float:right;
+}
+
+.message2 h3  {
+	margin-left:50px;
+	color:#ccc;
+	width:500px;
+	font-family: 'Noto Serif', serif;
+	font-style:italic;
+}
+
+.message2 h2  {
+	float:right;
+	color:#999;
+}
+
+.container-plan  {
+width:770px;
+text-align:center;
+padding-bottom: 40px;
+}
+
+.footer {
+    height: 350px;
+    margin-top: 300px;
+}
+
+.how-work  {
+   border-left: 1px solid #EEEEEE;
+    border-right: 1px solid #EEEEEE;
+    float: left;
+    margin: 10px;
+    padding-left: 15px;
+    width: 340px;
+	 height: 350px;
+}
+
+.footer > div  {
+margin:0 auto;
+width:1140px;
+}
+
+.aim {
+    float: left;
+    margin: 10px;
+    padding-left: 15px;
+    width: 340px;
+	 height: 350px;
+}
+
+.contact  {
+   border-left: 1px solid #EEEEEE;
+    border-right: 1px solid #EEEEEE;
+	padding-right: 10px;
+    float: left;
+    margin: 10px;
+    padding-left: 15px;
+    width: 340px;
+	 height: 350px;
+}
+
+.map {
+    float: left;
+    margin-top: 25px;
+    width: 100%;
+}
+
+.email h3 {
+    margin: 0 auto;
+    padding-bottom: 40px;
+    padding-top: 500px;
+    width: 550px;
+font-family: 'Fjord One', serif;
+}
+
+
+.email div  {
+width:200px;
+margin:0 auto;
+font-family: 'Fjord One', serif;
+}
+
+
+.footer-bottom  {
+background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+margin-top:180px;
+display:inline-block;
+width:100%;
+}
+
+.footer-bottom li {
+float:left;
+list-style:none;
+padding:10px;
+height:40px;
+text-decoration:none !important;
+}
+
+.footer-bottom li:hover {
+background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4);
+float:left;
+list-style:none;
+padding:10px;
+height:40px;
+text-decoration:none !important;
+-o-transition:.5s;
+-ms-transition:.5s;
+-moz-transition:.5s;
+-webkit-transition:.5s;
+transition:.5s;
+}
+
+a  {
+text-decoration:none !important;
+}
+
+.large  {
+font-size:34px;
+}
+
+.how-work h3  {
+margin-left:10px;
+}
+
+.icon-cog {
+    float: left;
+    margin-right: 30px;
+    margin-top: 8px;
+}
+
+.how-work p  {
+margin-top:15px;
+}
+
+.icon-fighter-jet  {
+    float: left;
+    margin-right: 30px;
+    margin-top: 8px;
+	}
+	
+	
+	.aim p  {
+	margin-top:15px;
+	}
+	
+		.contact p  {
+	margin-top:15px;
+	}
+	
+	
+	.icon-dashboard  {
+	 float: left;
+    margin-right: 30px;
+    margin-top: 8px;
+	}
+	
+	

@@ -1,0 +1,198 @@
+2013-03-18 01:52:47 Debug: Access Denied
+2013-03-18 01:56:55 Debug: Command was not found matching GetEndpointProvider
+2013-03-18 02:06:49 Debug: Command was not found matching GetEndpointProvider
+2013-03-18 02:38:36 Debug: Command was not found matching GetEndpointProvider
+2013-03-18 03:27:36 Debug: Command was not found matching GetEndpointProvider
+2013-03-18 03:28:18 Debug: Command was not found matching GetEndpointProvider
+2013-03-18 03:30:46 Debug: Command was not found matching GetEndpointProvider
+2013-03-18 04:21:18 Debug: Command was not found matching GetEndpointProvider
+2013-03-18 14:12:00 Debug: Command was not found matching GetEndpointProvider
+2013-03-18 16:57:23 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 00:33:53 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 00:48:51 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 00:57:49 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 00:57:49 Debug: Notice (8): Use of undefined constant VIEWS - assumed 'VIEWS' in [C:\wamp\www\app\Controller\AppController.php, line 75]
+Trace:
+AppController::sendJson() - APP\Controller\AppController.php, line 75
+FilesController::upload() - APP\Controller\FilesController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 486
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 109
+
+2013-03-19 01:54:56 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 01:55:18 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 02:00:13 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 02:00:49 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 02:46:23 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 03:32:07 Debug: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in order clause is ambiguous
+2013-03-19 03:33:22 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 03:34:32 Debug: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in order clause is ambiguous
+2013-03-19 03:40:40 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 03:43:28 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 03:44:28 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 03:45:41 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 03:46:52 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:31:52 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:38:10 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:39:35 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:41:25 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:42:22 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:43:16 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:43:40 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:45:39 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:50:10 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:51:00 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:54:00 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 04:54:09 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:04:58 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:07:16 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:08:55 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:09:08 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:10:39 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:16:49 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:18:38 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:24:46 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:25:57 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:26:26 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:27:12 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:27:53 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:28:01 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:28:28 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:29:07 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:30:34 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:30:54 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:35:04 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:35:41 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:36:10 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:40:19 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:40:39 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:41:15 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:46:38 Debug: C:\wamp\www\app\webroot\files/uploads/5147fa78dad9a-crop-100x100-small.jpg does not exist
+2013-03-19 05:46:38 Debug: C:\wamp\www\app\webroot\files/uploads/5147fa78dad9a-resize-800x587-medium.jpg does not exist
+2013-03-19 05:47:22 Debug: C:\wamp\www\app\webroot\files/uploads/5147fbda93e1f.jpg does not exist
+2013-03-19 05:47:22 Debug: C:\wamp\www\app\webroot\files/uploads/5147fbda93e1f-crop-100x100-small.jpg does not exist
+2013-03-19 05:47:22 Debug: C:\wamp\www\app\webroot\files/uploads/5147fbda93e1f-resize-800x587-medium.jpg does not exist
+2013-03-19 05:49:39 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:49:50 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:50:57 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:51:20 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:51:44 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:51:55 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:52:23 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:52:38 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:53:53 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:55:46 Debug: Command was not found matching GetEndpointProvider
+2013-03-19 05:56:51 Debug: C:\wamp\www\app\webroot\files/uploads/5147fde0d6c10-crop-100x100-small.jpg does not exist
+2013-03-19 05:56:51 Debug: C:\wamp\www\app\webroot\files/uploads/5147fde0d6c10-resize-800x600-medium.jpg does not exist
+2013-03-19 05:57:01 Debug: C:\wamp\www\app\webroot\files/uploads/5147fe23b89c3.jpg does not exist
+2013-03-19 05:57:01 Debug: C:\wamp\www\app\webroot\files/uploads/5147fe23b89c3-crop-100x100-small.jpg does not exist
+2013-03-19 05:57:01 Debug: C:\wamp\www\app\webroot\files/uploads/5147fe23b89c3-resize-800x600-medium.jpg does not exist
+2013-04-07 16:25:15 Debug: 51619deae5a58.jpg is not a valid image
+2013-04-07 16:25:15 Debug: 51619deb1c610.jpg is not a valid image
+2013-04-07 16:28:21 Debug: 51619ea521805.jpg is not a valid image
+2013-04-07 16:28:21 Debug: 51619ea5343b1.jpg is not a valid image
+2013-04-07 16:31:41 Debug: 51619f6d5cb39.jpg is not a valid image
+2013-04-07 16:31:41 Debug: 51619f6d796b2.jpg is not a valid image
+2013-04-07 16:33:52 Debug: 51619ff039bad.jpg is not a valid image
+2013-04-07 16:33:52 Debug: 51619ff050885.jpg is not a valid image
+2013-04-07 22:10:14 Debug: C:\wamp\www\app\webroot\files/tours/5161edbfed2b3.jpg does not exist
+2013-04-07 22:10:14 Debug: C:\wamp\www\app\webroot\files/tours/5161edbfed2b3-crop-100x100-small.jpg does not exist
+2013-04-07 22:10:14 Debug: C:\wamp\www\app\webroot\files/tours/5161edbfed2b3-resize-640x480-medium.jpg does not exist
+2013-04-08 16:25:06 Debug: C:\wamp\www\app\webroot\files/tours/user.png does not exist
+2013-04-08 16:27:10 Debug: C:\wamp\www\app\webroot\files/tours/user.png does not exist
+2013-04-18 00:24:56 Debug: Strict (2048): Declaration of AppAuthComponent::identify() should be compatible with AuthComponent::identify(CakeRequest $request, CakeResponse $response) in [C:\wamp\www\app\Controller\Component\AppAuthComponent.php, line 6]
+Trace:
+include - APP\Controller\Component\AppAuthComponent.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 561
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ComponentCollection::load() - CORE\Cake\Controller\ComponentCollection.php, line 100
+ComponentCollection::init() - CORE\Cake\Controller\ComponentCollection.php, line 53
+Controller::constructClasses() - CORE\Cake\Controller\Controller.php, line 635
+AppController::constructClasses() - APP\Controller\AppController.php, line 78
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 183
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 109
+
+2013-04-18 00:25:05 Debug: Strict (2048): Declaration of AppAuthComponent::identify() should be compatible with AuthComponent::identify(CakeRequest $request, CakeResponse $response) in [C:\wamp\www\app\Controller\Component\AppAuthComponent.php, line 6]
+Trace:
+include - APP\Controller\Component\AppAuthComponent.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 541
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ComponentCollection::load() - CORE\Cake\Controller\ComponentCollection.php, line 100
+ComponentCollection::init() - CORE\Cake\Controller\ComponentCollection.php, line 53
+Controller::constructClasses() - CORE\Cake\Controller\Controller.php, line 635
+AppController::constructClasses() - APP\Controller\AppController.php, line 78
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 183
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 109
+
+2013-04-18 00:25:12 Debug: Strict (2048): Declaration of AppAuthComponent::identify() should be compatible with AuthComponent::identify(CakeRequest $request, CakeResponse $response) in [C:\wamp\www\app\Controller\Component\AppAuthComponent.php, line 6]
+Trace:
+include - APP\Controller\Component\AppAuthComponent.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 541
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ComponentCollection::load() - CORE\Cake\Controller\ComponentCollection.php, line 100
+ComponentCollection::init() - CORE\Cake\Controller\ComponentCollection.php, line 53
+Controller::constructClasses() - CORE\Cake\Controller\Controller.php, line 635
+AppController::constructClasses() - APP\Controller\AppController.php, line 78
+CakeErrorController::__construct() - CORE\Cake\Controller\CakeErrorController.php, line 56
+ExceptionRenderer::_getController() - CORE\Cake\Error\ExceptionRenderer.php, line 155
+ExceptionRenderer::__construct() - CORE\Cake\Error\ExceptionRenderer.php, line 95
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 122
+[main] - [internal], line ??
+
+2013-04-18 00:25:27 Debug: Strict (2048): Declaration of AppAuthComponent::identify() should be compatible with AuthComponent::identify(CakeRequest $request, CakeResponse $response) in [C:\wamp\www\app\Controller\Component\AppAuthComponent.php, line 6]
+Trace:
+include - APP\Controller\Component\AppAuthComponent.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 541
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ComponentCollection::load() - CORE\Cake\Controller\ComponentCollection.php, line 100
+ComponentCollection::init() - CORE\Cake\Controller\ComponentCollection.php, line 53
+Controller::constructClasses() - CORE\Cake\Controller\Controller.php, line 635
+AppController::constructClasses() - APP\Controller\AppController.php, line 78
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 183
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 109
+
+2013-05-23 01:04:42 Debug: C:\wamp\www\app\webroot\files/tours/519d1f8e8b504.jpg does not exist
+2013-05-23 01:04:42 Debug: C:\wamp\www\app\webroot\files/tours/519d1f8e8b504-crop-100x100-small.jpg does not exist
+2013-05-23 01:04:42 Debug: C:\wamp\www\app\webroot\files/tours/519d1f8e8b504-resize-800x600-medium.jpg does not exist
+2013-06-03 19:18:43 Debug: C:\wamp\www\app\webroot\files/products/51a7fdca12966.jpg does not exist
+2013-06-03 19:18:43 Debug: C:\wamp\www\app\webroot\files/products/51a7fdca12966-crop-100x100-small.jpg does not exist
+2013-06-03 19:18:43 Debug: C:\wamp\www\app\webroot\files/products/51a7fdca12966-resize-750x350-medium.jpg does not exist
+2013-06-03 19:18:49 Debug: C:\wamp\www\app\webroot\files/products/51a7fdcfc844a.jpg does not exist
+2013-06-03 19:18:49 Debug: C:\wamp\www\app\webroot\files/products/51a7fdcfc844a-crop-100x100-small.jpg does not exist
+2013-06-03 19:18:49 Debug: C:\wamp\www\app\webroot\files/products/51a7fdcfc844a-resize-486x335-medium.jpg does not exist
+2013-06-03 19:18:55 Debug: C:\wamp\www\app\webroot\files/products/51a7fdd8ab8da.jpg does not exist
+2013-06-03 19:18:55 Debug: C:\wamp\www\app\webroot\files/products/51a7fdd8ab8da-crop-100x100-small.jpg does not exist
+2013-06-03 19:18:55 Debug: C:\wamp\www\app\webroot\files/products/51a7fdd8ab8da-resize-550x412-medium.jpg does not exist
+2013-06-03 19:19:01 Debug: C:\wamp\www\app\webroot\files/products/51a7fdd463cba.jpg does not exist
+2013-06-03 19:19:01 Debug: C:\wamp\www\app\webroot\files/products/51a7fdd463cba-crop-100x100-small.jpg does not exist
+2013-06-03 19:19:01 Debug: C:\wamp\www\app\webroot\files/products/51a7fdd463cba-resize-544x363-medium.jpg does not exist
+2013-06-03 19:24:15 Debug: C:\wamp\www\app\webroot\files/products/51a8029cc2a3b.jpg does not exist
+2013-06-03 19:24:15 Debug: C:\wamp\www\app\webroot\files/products/51a8029cc2a3b-crop-100x100-small.jpg does not exist
+2013-06-03 19:24:15 Debug: C:\wamp\www\app\webroot\files/products/51a8029cc2a3b-resize-800x600-medium.jpg does not exist
+2013-06-03 19:24:19 Debug: C:\wamp\www\app\webroot\files/products/51a802b2258f9.jpg does not exist
+2013-06-03 19:24:19 Debug: C:\wamp\www\app\webroot\files/products/51a802b2258f9-crop-100x100-small.jpg does not exist
+2013-06-03 19:24:19 Debug: C:\wamp\www\app\webroot\files/products/51a802b2258f9-resize-800x600-medium.jpg does not exist
+2013-06-03 19:24:23 Debug: C:\wamp\www\app\webroot\files/products/51a802a6f37bb.jpg does not exist
+2013-06-03 19:24:23 Debug: C:\wamp\www\app\webroot\files/products/51a802a6f37bb-crop-100x100-small.jpg does not exist
+2013-06-03 19:24:23 Debug: C:\wamp\www\app\webroot\files/products/51a802a6f37bb-resize-800x600-medium.jpg does not exist
+2013-06-03 19:24:27 Debug: C:\wamp\www\app\webroot\files/products/51a802bc7d1fb.jpg does not exist
+2013-06-03 19:24:27 Debug: C:\wamp\www\app\webroot\files/products/51a802bc7d1fb-crop-100x100-small.jpg does not exist
+2013-06-03 19:24:27 Debug: C:\wamp\www\app\webroot\files/products/51a802bc7d1fb-resize-800x600-medium.jpg does not exist
+2013-06-03 19:48:41 Debug: C:\wamp\www\app\webroot\files/products/51a6bab95585e.jpg does not exist
+2013-06-03 19:48:41 Debug: C:\wamp\www\app\webroot\files/products/51a6bab95585e-crop-100x100-small.jpg does not exist
+2013-06-03 19:48:41 Debug: C:\wamp\www\app\webroot\files/products/51a6bab95585e-resize-554x330-medium.jpg does not exist
+2013-06-03 20:52:05 Debug: C:\wamp\www\app\webroot\files/products/51a6bbc2f2233.jpg does not exist
+2013-06-03 20:52:05 Debug: C:\wamp\www\app\webroot\files/products/51a6bbc2f2233-crop-100x100-small.jpg does not exist
+2013-06-03 20:52:05 Debug: C:\wamp\www\app\webroot\files/products/51a6bbc2f2233-resize-800x600-medium.jpg does not exist
+2013-06-04 13:49:04 Debug: C:\wamp\www\app\webroot\files/products/user.png does not exist
+2013-06-04 13:49:27 Debug: C:\wamp\www\app\webroot\files/products/user.png does not exist
+2014-04-12 17:13:47 Debug: C:\cms\wamp\www\app\webroot\files/products/51acec4ecbb1c-crop-100x100-small.jpg does not exist

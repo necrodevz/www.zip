@@ -1,0 +1,2 @@
+<?php echo $user['User']['first_name']." ".$user['User']['last_name']." "; ?>
+to reset password follow the link  <?php echo $this->Html->link('Click Here', array('controller'=>'users', 'action'=>'verify', $token, 'full_base' => true), array('class'=>''));?>
